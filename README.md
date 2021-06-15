@@ -9,7 +9,7 @@ I'm a seasoned software engineer who is passionate about making open-source more
 4. React-Redux based Rock-Paper-Scissor Game https://github.com/sjshank/React-Rock-Paper-Scissors-Redux
 5. Project Deliverable tracker https://project-timeline-app.netlify.app/
 6. Shopping Mart https://shopping-mart.netlify.app/
-And so on...
+7. And so on.....
 
 
 ## Find me around the web 🌎: 
