@@ -1,4 +1,8 @@
-<h1 align="center"> Hello, There! 👋 I'm Saurabh Shankariya 👩🏾‍💻 </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+I'm+Saurabh+Shankariya;Nice+to+meet+you!&center=true&size=28">
+  </a>
+</h1>
 <h3 align="center"> Influenced | Collaborative | Communicative </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-shankariya-a9127349)
