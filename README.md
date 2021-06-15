@@ -29,7 +29,7 @@ I'm a seasoned software engineer, passionate about making open-source more acces
 
 ## Creative Products:
 
-My interest in the UI ecosystem led me to launch numerous self-design projects 💡 which are helping community to learn & build skills 🕸️ In my free time, I enjoy making short movies 🤓, sound editing and exploring web technologies. Some of my noteworthy contributions are listed below :
+My interest in the UI ecosystem led me to launch numerous self-design projects 💡 which are helping community to learn & build skills. In my free time, I enjoy making short movies 🤓, sound editing and exploring web technologies 🕸️. Some of my noteworthy contributions are listed below :
 
 1. India Vaccination Statistics https://in-vaccination.netlify.app/
 2. Document Notarization using Blockchain https://notarize-document-dapp.netlify.app/
