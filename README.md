@@ -16,8 +16,8 @@ I'm a seasoned software engineer, passionate about making open-source more acces
 - 🚀 &nbsp; I’m currently learning Ethereum Blockchain DAPP.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sjshank).
 - 💬 &nbsp; Ask me about anything [here](https://sjshank.com/contact)! I am happy to help.
-- 👾 &nbsp; Fun fact: Javascript is easy to learn but years to expert.
-- 📫 &nbsp; How to reach me: sjshankariya@gmail.com.
+- 👾 &nbsp; Fun fact: Javascript is easy to learn but take years to gain expertise.
+- 📫 &nbsp; How to reach me: sjshankariya@gmail.com. +91-8087797428
 - 📝 &nbsp; Checkout my [Resume](https://sjshank.com/Saurabh-Shankariya_FrontEndDeveloper.pdf).
 
 ## My Absolute Favorites:
