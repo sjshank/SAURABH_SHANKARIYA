@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-shankariya-a9127349)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sjshank.com)
 
-I'm a seasoned software engineer, passionate about making open-source more accessible, creating technology to elevate people, and building community. I enjoy working with technologies such as ReactJS, Salesforce Lightning and Blockchain. ❤️ I love building insightful and creative software that improves the lives of those around me ❤️
+I'm a seasoned software engineer, passionate about making open-source more accessible, creating technology to elevate people, and building community. I enjoy working with technologies such as ReactJS, Salesforce Lightning and Blockchain. ❤️ I love building insightful and creative software that improves the lives of people around me ❤️
 
 ## Talking about Personal Stuffs:
 
