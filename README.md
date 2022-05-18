@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+I'm+Saurabh Shankariya&center=true&size=28">
-  </a>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 </h1>
 <h3 align="center"> Influenced | Collaborative | Communicative </h3>
 
