@@ -7,13 +7,13 @@ I'm a seasoned software engineer, passionate about making open-source more acces
 
 ## Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Salesforce Lightning, React, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Ethereum Blockchain DAPP.
+- 🛠 &nbsp; I’m currently working on Blockchain, DAPPs, Salesforce Lightning, React, Javascript, etc.
+- 🚀 &nbsp; I’m exploring Hyperledger Fabric and NextJS.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sjshank).
 - 💬 &nbsp; Ask me about anything [here](https://sjshank.com/contact)! I am happy to help.
 - 👾 &nbsp; Fun fact: Javascript is easy to learn but take years to gain expertise.
 - 📫 &nbsp; How to reach me: sjshankariya@gmail.com. +91-8087797428
-- 📝 &nbsp; Checkout my [Resume](https://sjshank.com/Saurabh-Shankariya_FrontEndDeveloper.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://sjshank.com/assets/Saurabh%20Shankariya%20CV.685b2498.pdf).
 
 ## My Absolute Favorites:
 
@@ -28,7 +28,7 @@ I'm a seasoned software engineer, passionate about making open-source more acces
 
 ## Creative Products:
 
-My interest in the UI ecosystem led me to launch numerous self-design projects 💡 which are helping community to learn & build skills. In my free time, I enjoy making short movies 🤓, sound editing and exploring web technologies 🕸️. Some of my noteworthy contributions are listed below :
+My interest in the UI & Blockchain ecosystem led me to launch numerous self-design projects 💡 which are helping community to learn & build skills. In my free time, I enjoy making short movies 🤓, sound editing and exploring web technologies 🕸️. Some of my noteworthy contributions are listed below :
 
 1. India Vaccination Statistics https://in-vaccination.netlify.app/
 2. Document Notarization using Blockchain https://notarize-document-dapp.netlify.app/
