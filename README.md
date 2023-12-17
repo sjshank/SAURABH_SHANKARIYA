@@ -7,8 +7,8 @@ I'm a seasoned software engineer, passionate about making open-source more acces
 
 ## Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on Blockchain, DAPPs, Salesforce Lightning, React, Javascript, etc.
-- 🚀 &nbsp; I’m exploring Hyperledger Fabric and NextJS.
+- 🛠 &nbsp; I’m currently working on Blockchain, NextJS, Salesforce Lightning, ReactJS, Javascript, etc.
+- 🚀 &nbsp; I’m exploring more about Hyperledger Fabric & FrontEnd system design.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sjshank).
 - 💬 &nbsp; Ask me about anything [here](https://sjshank.me/contact)! I am happy to help.
 - 👾 &nbsp; Fun fact: Javascript is easy to learn but take years to gain expertise.
