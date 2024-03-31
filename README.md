@@ -7,7 +7,7 @@ I'm a seasoned software engineer, passionate about making open-source more acces
 
 ## Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on Blockchain, NextJS, Salesforce Lightning, ReactJS, Javascript, etc.
+- 🛠 &nbsp; I’m currently working on Blockchain, NextJS, Salesforce Lightning, ReactJS, Javascript, Material-UI, TailwindCSS etc.
 - 🚀 &nbsp; I’m exploring more about Hyperledger Fabric & FrontEnd system design.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sjshank).
 - 💬 &nbsp; Ask me about anything [here](https://sjshank.me/#contact)! I am happy to help.
@@ -30,14 +30,15 @@ I'm a seasoned software engineer, passionate about making open-source more acces
 
 My interest in the UI & Blockchain ecosystem led me to launch numerous self-design projects 💡 which are helping community to learn & build skills. In my free time, I enjoy making short movies 🤓, sound editing and exploring web technologies 🕸️. Some of my noteworthy contributions are listed below :
 
-1. IT Garage https://next-it-garage.vercel.app
-2. CRUX Lab https://cruxlab.netlify.app
-3. React Workout https://workout-rapidapi.netlify.app
-4. India Vaccination Statistics https://in-vaccination.netlify.app/
-5. Document Notarization using Blockchain https://notarize-document-dapp.netlify.app/
-6. React-Redux based Rock-Paper-Scissor Game https://github.com/sjshank/React-Rock-Paper-Scissors-Redux
-7. Project Deliverable tracker https://project-timeline-app.netlify.app/
-8. And so on.....
+1. E-Kitaab Store https://ekitaab-store.vercel.app/
+2. IT Garage https://next-it-garage.vercel.app
+3. CRUX Lab https://cruxlab.netlify.app
+4. React Workout https://workout-rapidapi.netlify.app
+5. India Vaccination Statistics https://in-vaccination.netlify.app/
+6. Document Notarization using Blockchain https://notarize-document-dapp.netlify.app/
+7. React-Redux based Rock-Paper-Scissor Game https://github.com/sjshank/React-Rock-Paper-Scissors-Redux
+8. Local-Library-API (REST API for e-kitaab store app) https://local-library-api.onrender.com/catalog
+9. And so on.....
 
 <div align="center">
 
